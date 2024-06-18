@@ -2,7 +2,7 @@
 
 ### WeatherExtra - Unfinished
 
-#### A simple Android App written in Java with a login screen and an API call to Samsung weather Partner.
+#### A simple Android App written in Java with a login screen and an API call to Samsung weather Partner ![Accuweather](https://www.accuweather.com/)
 #### it have a fancy moving background too!
 
 
