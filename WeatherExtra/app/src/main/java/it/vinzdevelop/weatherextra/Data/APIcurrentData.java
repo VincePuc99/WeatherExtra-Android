@@ -63,7 +63,7 @@ public class APIcurrentData {
             //Background thread
             try {
                 URL url = new URL("https://api.openweathermap.org/data/2.5/weather?q="+
-                        city +","+ country +"&lang=it&appid=39215f00b1739eefc69b0812eca7696b&units=metric");
+                        city +","+ country +"&lang=it&appid=APIKEY&units=metric");
 
                 HttpURLConnection connection = (HttpURLConnection) url.openConnection();
 
